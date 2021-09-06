@@ -1,4 +1,4 @@
-<!-- <p><img align="center" src="https://github.com/sharu606/sharu606/blob/main/Copy%20of%20Minimalist%20Aesthetic%20Slideshow%20by%20Slidesgo%20(1).jpg?raw=true" alt="sharu606" style="height:10px, width: 10px"/></p> -->
+<p><img align="center" src="https://github.com/sharu606/sharu606/blob/main/Capture.PNG?raw=true" alt="sharu606" style="height:10px, width: 10px"/></p>
 <h1 align="center">Hi 👋, I'm S Sharanya</h1>
 <h3 align="center">A passionate frontend developer & Numbers lover who wishes to empower and inspire people.</h3>
 
