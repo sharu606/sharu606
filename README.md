@@ -1,6 +1,6 @@
 <p><img align="center" src="https://github.com/sharu606/sharu606/blob/main/Capture.PNG?raw=true" alt="sharu606" style="height:10px, width: 10px"/></p>
 <h1 align="center">Hi 👋, I'm S Sharanya</h1>
-<h3 align="center">A passionate frontend developer & Numbers lover who wishes to empower and inspire people.</h3>
+<h3 align="center">A passionate software developer & Numbers lover who wishes to empower and inspire people.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharu606&label=Profile%20views&color=0e75b6&style=flat" alt="sharu606" /> </p>
 
