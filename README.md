@@ -6,13 +6,11 @@
 
 - 🌱 I’m currently learning **React, DSA & ML**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolios.talentsprint.com/~sharanya_s/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-sharanya.netlify.app/)
 
 - 💬 Ask me about **anything interesting and creative**
 
 - 📫 How to reach me **sridharan784@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UdkVaryDyaoWC1qB-cyFNhS23xwJr5G_/view?usp=sharing)
 
 - ⚡ Fun fact **I can hold an interesting conversation with any stranger.**
 
